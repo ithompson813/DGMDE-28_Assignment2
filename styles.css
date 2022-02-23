@@ -1,0 +1,25 @@
+.board_button {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 150px;
+}
+
+#info {
+    text-align: center;
+    font-size: large;
+}
+
+#board {
+    padding-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+}
+
+#reset {
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+}
